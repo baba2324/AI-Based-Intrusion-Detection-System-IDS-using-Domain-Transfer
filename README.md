@@ -9,7 +9,7 @@
 - F1-Score / Precision / Recall: ...
 - Macro F1-Score: 0.99
 - Evaluated with F1-Score to avoid accuracy paradox.
-- 
+
 <details>
 <summary><b>🔥 🛠️ Challenges & Troubleshooting (Click to Expand)</b></summary>
 <br>
